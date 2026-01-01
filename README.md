@@ -475,7 +475,7 @@ This project is created for educational and assessment purposes.
 
 ## Developer
 
-**Your Name**  
+**Kartik Rathod**  
 Email: rathodkartik293@gmail.com
 GitHub:https://github.com/kartikrathod23
 
