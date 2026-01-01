@@ -4,8 +4,8 @@ A full-stack web application where users can browse sports matches, filter by sp
 
 ## Live Demo
 
-- **Frontend**: [Your Deployed Frontend URL]
-- **Backend API**: [Your Deployed Backend URL]
+- **Frontend**: https://sports-hub-frontend-beryl.vercel.app/login
+- **Backend API**: https://sports-hub-backend.vercel.app
 
 
 ## Features
